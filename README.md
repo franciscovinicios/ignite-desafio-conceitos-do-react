@@ -10,11 +10,11 @@
 
 
 <p align="center">
- 
  <a href="#tech-stack">Tech Stack</a> • 
  <a href="#layout">Layout</a> • 
- <a href="#user-content-license">License</a>
-
+ <a href="#getting-started">Getting Started</a> • 
+ <a href="#how-to-install">How to Install</a> • 
+ <a href="#license">License</a> • 
 </p>
 
 
