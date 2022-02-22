@@ -16,7 +16,7 @@ The following tools were used in the construction of the project:
 
 
 -   **React**
--   **TypeScript
+-   **TypeScript**
 -   **WebPack**
 -   **WebPack Dev Server**
 -   **SASS**
