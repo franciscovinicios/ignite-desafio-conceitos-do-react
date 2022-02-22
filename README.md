@@ -9,11 +9,18 @@
 </h4>
 
 
+<p align="center">
+ 
+ <a href="#tech-stack">Tech Stack</a> • 
+ <a href="#layout">Layout</a> • 
+ <a href="#user-content-license">License</a>
+
+</p>
+
+
 ## Tech Stack
 
 The following tools were used in the construction of the project:
-
-
 
 -   **React**
 -   **TypeScript**
@@ -65,3 +72,5 @@ or
 ## License
 
 This project could be used by anyone! MIT License
+
+Made with love by Francisco Vinicios👋🏽 [Get in Touch!](https://www.linkedin.com/in/franciscoviniciosti/)
