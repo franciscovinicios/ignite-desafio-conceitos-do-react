@@ -1,3 +1,29 @@
+![to do](https://user-images.githubusercontent.com/78514869/155045010-cdcfd8b8-d546-4985-8b17-6e0a00928100.png)
+
+<h3 align="center">
+    This ToDo List project is a challenge that consists of implementing some features so that the to do list works correctly
+</h3>
+
+<h4 align="center"> 
+	 Status: Finished
+</h4>
+
+
+## Tech Stack
+
+The following tools were used in the construction of the project:
+
+
+
+-   **React**
+-   **TypeScript
+-   **WebPack**
+-   **WebPack Dev Server**
+-   **SASS**
+-   **Fast Refresh**
+
+## Layout
+
 
 
 ## Getting Started
